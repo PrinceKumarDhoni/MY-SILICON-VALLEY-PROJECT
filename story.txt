@@ -1,0 +1,24 @@
+STORY :- COVID, a highly contagious  diseases which is spreading all over the world at very high rate.
+         There are deaths all around the world and the number of cases are still rising. Then comes 
+         a brave boy PRINCE who is going through so much suffering and is fed up of all this. Now, he left
+         out in search of VACCINE. In this difficult journey he will going to face lots of trouble. So 
+         can you please help him out during this journey.
+
+playing charector (PC) :- PRINCE (Main charector Boy).
+Non playing charector (NPC) :- CORONA , STONES , MASKS, SANITIZER, PPE KIT, VACCINE.
+RULES :- > IF YOU TOUCHES A CORONA YOU WILL BE INFECTED .
+        
+         >YOU NEED TO COLECT MASK,SANITIZER IN ORDER TO BE SAFE.
+        
+         
+GOAL :- YOU SHOULD TAKE MASK AND SANITIZER.
+
+CHANCES V/S SKILL :- >YOU SHOULDNOT GET AFECTED BY CORONA .
+                     >YOU SHOULD COLLECT MAXIMUM MASKS AND SANITIZER 
+
+ADAPTBILITY :- >YOU HAVE TO AVOID CORONA.
+               
+
+FEEDBACK :- BY SCORING MAXIMUM SCORE.
+
+
